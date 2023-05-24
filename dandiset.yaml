@@ -41,8 +41,8 @@ assetsSummary:
   - ProcessingModule
 citation: Lecoq, Jerome; Murdock, Mitchell H.; Arkhipov, Anton; Ito, Shinya; Ren,
   Naixin; Billeh, Yazan N. (2023) Allen Institute Openscope - Effects of Periodic
-  Visual Stimulation on Neural Activity in Mouse Visual Cortex (Version draft) [Data
-  set]. DANDI archive. https://dandiarchive.org/dandiset/000535/draft
+  Visual Stimulation on Neural Activity in Mouse Visual Cortex (Version 0.230524.0416)
+  [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000535/0.230524.0416
 contributor:
 - affiliation: []
   email: jeromel@alleninstitute.org
@@ -166,13 +166,14 @@ description: "This study investigates the effects of periodic sensory stimulatio
   any tasks. They were passively viewing the LED strip.  All animal procedures were
   approved by the Institutional Animal Care and Use Committee (IACUC) at the Allen
   Institute for Brain Science in compliance with NIH guidelines."
+doi: 10.48324/dandi.000535/0.230524.0416
 ethicsApproval:
 - contactPoint:
     schemaKey: ContactPoint
   identifier: ​Allen Institute Institutional Animal Care and Use Committee (IACUC),
     protocol 1801
   schemaKey: EthicsApproval
-id: DANDI:000535/draft
+id: DANDI:000535/0.230524.0416
 identifier: DANDI:000535
 keywords:
 - two-photon
@@ -184,7 +185,7 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000535/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000535/0.230524.0416/assets.yaml
 name: Allen Institute Openscope - Effects of Periodic Visual Stimulation on Neural
   Activity in Mouse Visual Cortex
 protocol: []
@@ -205,6 +206,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000535/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000535/0.230524.0416
+version: 0.230524.0416
 wasGeneratedBy: []
